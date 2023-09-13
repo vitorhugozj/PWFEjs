@@ -7,6 +7,7 @@ const contatos = [
         notificacoes: '3',
         tempo: 'Há 44 minutos',
         foto: 'neymar.png',
+        contato: 'Vitor Hugo'
     },
     {
         nome: 'Antony',
@@ -14,6 +15,7 @@ const contatos = [
         notificacoes: '1',
         tempo: 'Há 2 horas',
         foto: 'antony.png',
+        contato: 'Vitor Hugo'
     },
     {
         nome: 'Papai Cris',
@@ -21,6 +23,7 @@ const contatos = [
         notificacoes: '+9',
         tempo: 'Há 6 dias',
         foto: 'cr7.png',
+        contato: 'Vitor Hugo'
     },
     {
         nome: 'Messi',
@@ -28,6 +31,7 @@ const contatos = [
         notificacoes: '3',
         tempo: 'Há 12 dias',
         foto: 'messi.png',
+        contato: 'Vitor Hugo'
     }
 ]
 

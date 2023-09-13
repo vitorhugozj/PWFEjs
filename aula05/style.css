@@ -69,6 +69,16 @@ h1{
     font-size: 12px;
     place-self: start;
 }
+.contato {
+    position: absolute;
+    bottom: -15px;
+    left: 74px;
+    background-color: #90ee90;
+    padding: 4px 10px;
+    font-size: 14px;
+    border-radius: 12px;
+    color: white;
+}
 
 .card-container {
     background-color: #008000;
